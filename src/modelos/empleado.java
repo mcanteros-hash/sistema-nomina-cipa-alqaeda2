@@ -1,5 +1,5 @@
 package modelos;
-
+// Arihann
 public abstract class Empleado {
     protected String nombre;
     protected double salarioBase;
