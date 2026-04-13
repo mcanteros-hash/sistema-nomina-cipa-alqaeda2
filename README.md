@@ -10,7 +10,7 @@
 ## 📝 Descripción del Proyecto
 Este proyecto consiste en un sistema de nómina desarrollado en Java bajo el paradigma de **Programación Orientada a Objetos (POO)**. El sistema gestiona cuatro tipos de perfiles laborales (Asalariado, Por Horas, Comisión y Temporal), calculando salarios brutos, deducciones de ley y beneficios adicionales de forma automatizada.
 
-## ⚙️ Principios y Buenas Prácticas (SOLID & Clean Code)
+## ⚙️ Principios y Buenas Prácticas (SOLID & Codigo limpio)
 Siguiendo los requerimientos de la actividad, el código implementa:
 1. **Responsabilidad Única (SRP):** Cada clase de empleado gestiona su propio cálculo bruto, mientras que la lógica de deducciones generales reside en la clase `CalculadoraNomina`.
 2. **Abstracción y Herencia:** Se definió una clase base `Empleado` para estandarizar el comportamiento de todos los trabajadores.
