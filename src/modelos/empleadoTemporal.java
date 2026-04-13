@@ -7,6 +7,6 @@ public class EmpleadoTemporal extends Empleado {
 
     @Override
     public double calcularSalarioBruto() {
-        return salarioBase; // Sin bonos según el PDF [cite: 32]
+        return salarioBase; // Sin bonos [cite: 32]
     }
 }
